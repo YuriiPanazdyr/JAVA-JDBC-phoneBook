@@ -1,12 +1,1 @@
 .idea/*
-
-*.class
-
-*.war
-*.jar
-*.ear
-.gitignore
-.idea/
-phoneBook.iml
-pom.xml
-src/
